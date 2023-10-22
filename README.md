@@ -33,7 +33,7 @@ $numb2rmb = new \Swordying\num2rmb($config);
 $number = 123456789.01;
 $result = $numb2rmb -> handle($number);
 
-echo $result;
+echo $result; ## ¥壹亿贰仟叁佰肆拾伍万陆仟柒佰捌拾玖元零壹分
 ```
 
 ## 备注
